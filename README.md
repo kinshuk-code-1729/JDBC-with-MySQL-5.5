@@ -3,7 +3,7 @@ Java Database Connectivity with MySQL database.
 
 ## JDBC (Java Database Connectivity) :
 
-![image](https://github.com/kinshuk-code-1729/JDBC-with-MySQL-5.5/assets/90320839/777d718b-48c8-41f5-aea9-9547bffea828)
+![image](https://github.com/kinshuk-code-1729/JDBC-with-MySQL-5.5/assets/90320839/dd98b092-41e8-4acf-a6a0-2f9f530156c7)
 
 **JDBC** or **Java Database Connectivity** is a *Java API* to connect and execute the query with the database. It is a specification from Sun microsystems that provides a standard abstraction(API or Protocol) for java applications to communicate with various databases. It provides the language with java database connectivity standards. It is used to write programs required to access databases. JDBC, along with the database driver, can access databases and spreadsheets. The enterprise data stored in a relational database(RDB) can be accessed with the help of JDBC APIs.
 
